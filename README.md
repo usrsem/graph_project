@@ -16,7 +16,7 @@ Library requirements:
 
 The binary using this lookup must deserialize the graph from the file, bypass
 its nodes and for each of them its identifier is displayed in the console,
-identifiers of its adjacent nodes and its values.
+identifiers of its adjacent nodes and its value.
 
 ## Solution
 Library crate stored in [graph repository](https://github.com/usrsem/graph).
