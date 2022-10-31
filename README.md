@@ -19,5 +19,6 @@ its vertices and for each of them its identifier is displayed in the console,
 identifiers of its adjacent vertices and its values.
 
 ## Solution
-Library crate stored in [graph](https://github.com/usrsem/graph)
-Demo binary crate stored in [graph_demo](https://github.com/usrsem/graph_demo)
+Library crate stored in [graph repository](https://github.com/usrsem/graph).
+
+Demo binary crate stored in [graph_demo repository](https://github.com/usrsem/graph_demo).
