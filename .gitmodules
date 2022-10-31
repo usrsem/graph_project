@@ -1,6 +1,6 @@
 [submodule "graph"]
 	path = graph
-	url = .\\graph\\
+	url = https://github.com/usrsem/graph
 [submodule "demo"]
 	path = demo
-	url = .\\demo\\
+	url = https://github.com/usrsem/graph_demo
