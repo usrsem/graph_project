@@ -1,0 +1,6 @@
+[submodule "graph"]
+	path = graph
+	url = .\\graph\\
+[submodule "demo"]
+	path = demo
+	url = .\\demo\\
